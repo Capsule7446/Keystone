@@ -38,6 +38,38 @@
         "brownfield",
         "language-agnostic"
       ]
+    },
+    {
+      "name": "consistent-frontend",
+      "description": "强一致、好维护的前端开发套件：DDD/Clean 定依赖方向 + Feature-Sliced Design 定结构 + Design System/状态机定语义一致。核心框架无关，含 React / Vue 3 / Svelte 适配。提供 consistent-frontend skill 与 /fe-build 命令。",
+      "source": {
+        "source": "github",
+        "repo": "Capsule7446/Consistent-Frontend",
+        "ref": "v0.1.0"
+      },
+      "version": "0.1.0",
+      "author": {
+        "name": "Pauly"
+      },
+      "homepage": "https://github.com/Capsule7446/Consistent-Frontend",
+      "repository": "https://github.com/Capsule7446/Consistent-Frontend",
+      "license": "MIT",
+      "category": "development",
+      "keywords": [
+        "frontend",
+        "frontend-architecture",
+        "ddd",
+        "clean-architecture",
+        "feature-sliced-design",
+        "fsd",
+        "design-system",
+        "state-machine",
+        "react",
+        "vue",
+        "svelte",
+        "typescript",
+        "maintainability"
+      ]
     }
   ]
 }
